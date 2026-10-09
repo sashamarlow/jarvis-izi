@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "field_aliases": {
+    "launch": ["основной запуск"],
+    "guests": ["кол-во гостей", "количество гостей"],
+    "staff": ["смета персонала"],
+    "bartenders": ["бармен", "бармены", "барменов"]
+  },
+  "additional_fields": [
+    "публика",
+    "публика возраст",
+    "заезд организаторов",
+    "конец",
+    "выезд организаторов",
+    "кухня нужна",
+    "бар 2го этажа"
+  ],
+  "minimum_additional_fields": 2,
+  "required_keywords": [],
+  "any_keywords": [],
+  "excluded_keywords": []
+}
